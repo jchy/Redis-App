@@ -11,7 +11,7 @@ Caching of user data being fetch from the github for first time and rest time if
   npm start
 ```
 - Now open the postman and make a GET re  quest at the following url
-```js
+```.js
    http://localhost:3000/user/jchy
   // NOTE : you can serach for any user on github by his useername
   // let's say if you want to search for a user with username albseb5611
