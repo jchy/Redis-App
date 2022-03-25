@@ -12,6 +12,9 @@ Caching of user data being fetch from the github for first time and rest time if
 ```
 - Now open the postman and make a GET re  quest at the following url
 ```js
-  http://localhost:3000/user/albseb511
-
+   http://localhost:3000/user/jchy
+  // NOTE : you can serach for any user on github by his useername
+  // let's say if you want to search for a user with username albseb5611
+  // then make a GET request at the following url
+  // http://localhost:3000/user/albseb511
 ```
